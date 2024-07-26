@@ -6,7 +6,7 @@ Desafio de projeto idealizado pela bootcamp Labenu.
 
 ### Link de acesso do projeto: 
 
-https://premium-trousers.surge.sh/
+https://elitostajunior.github.io/blackjack-simples/
 
 ### Tecnologias utilizadas:
 
